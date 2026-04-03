@@ -29,7 +29,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # ================= ТВОИ НАСТРОЙКИ =================
 import os
-BOT_TOKEN = os.getenv("8687069035:AAFiCiXgDO02eO-EpMdOh7oNctuXYyCQGLQ")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 1045871640 # тут уже твой ID стоит
 
 ACCOUNTS = [

@@ -1,0 +1,1100 @@
+{
+    "csv_txn:01 Apr, 2026 11:57 PM|alinashylife|13.27|Никита": {
+        "type": "transaction",
+        "date": "01 Apr, 2026 11:57 PM",
+        "account": "alinashylife",
+        "amount": 13.27,
+        "chatter": "Никита"
+    },
+    "csv_txn:01 Apr, 2026 04:41 AM|alinashylife|15.99|Никита": {
+        "type": "transaction",
+        "date": "01 Apr, 2026 04:41 AM",
+        "account": "alinashylife",
+        "amount": 15.99,
+        "chatter": "Никита"
+    },
+    "csv_txn:31 Mar, 2026 07:58 PM|alina_shy|15.75|Андрей": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 07:58 PM",
+        "account": "alina_shy",
+        "amount": 15.75,
+        "chatter": "Андрей"
+    },
+    "csv_txn:31 Mar, 2026 07:40 PM|alina_shy|12.55|Андрей": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 07:40 PM",
+        "account": "alina_shy",
+        "amount": 12.55,
+        "chatter": "Андрей"
+    },
+    "csv_txn:31 Mar, 2026 07:40 PM|alinashylife|16.00|Андрей": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 07:40 PM",
+        "account": "alinashylife",
+        "amount": 16.0,
+        "chatter": "Андрей"
+    },
+    "csv_txn:31 Mar, 2026 04:01 PM|alinashylife|7.99|Андрей": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 04:01 PM",
+        "account": "alinashylife",
+        "amount": 7.99,
+        "chatter": "Андрей"
+    },
+    "csv_txn:31 Mar, 2026 03:03 PM|alinashylife|15.20|Назар": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 03:03 PM",
+        "account": "alinashylife",
+        "amount": 15.2,
+        "chatter": "Назар"
+    },
+    "csv_txn:31 Mar, 2026 01:56 PM|alinashylife|11.20|Назар": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 01:56 PM",
+        "account": "alinashylife",
+        "amount": 11.2,
+        "chatter": "Назар"
+    },
+    "csv_txn:31 Mar, 2026 01:40 PM|alinashylife|2.40|Назар": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 01:40 PM",
+        "account": "alinashylife",
+        "amount": 2.4,
+        "chatter": "Назар"
+    },
+    "csv_txn:31 Mar, 2026 01:26 AM|alinashylife|17.78|Никита": {
+        "type": "transaction",
+        "date": "31 Mar, 2026 01:26 AM",
+        "account": "alinashylife",
+        "amount": 17.78,
+        "chatter": "Никита"
+    },
+    "csv_txn:30 Mar, 2026 08:37 PM|alinashylife|12.55|Андрей": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 08:37 PM",
+        "account": "alinashylife",
+        "amount": 12.55,
+        "chatter": "Андрей"
+    },
+    "csv_txn:30 Mar, 2026 11:37 AM|alinashyvip|16.00|Назар": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 11:37 AM",
+        "account": "alinashyvip",
+        "amount": 16.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:30 Mar, 2026 05:40 AM|alinashylife|15.99|Никита": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 05:40 AM",
+        "account": "alinashylife",
+        "amount": 15.99,
+        "chatter": "Никита"
+    },
+    "csv_txn:30 Mar, 2026 03:25 AM|alinashylife|17.19|Никита": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 03:25 AM",
+        "account": "alinashylife",
+        "amount": 17.19,
+        "chatter": "Никита"
+    },
+    "csv_txn:30 Mar, 2026 01:04 AM|alinashylife|12.79|Никита": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 01:04 AM",
+        "account": "alinashylife",
+        "amount": 12.79,
+        "chatter": "Никита"
+    },
+    "csv_txn:30 Mar, 2026 12:26 AM|alinashylife|14.31|Никита": {
+        "type": "transaction",
+        "date": "30 Mar, 2026 12:26 AM",
+        "account": "alinashylife",
+        "amount": 14.31,
+        "chatter": "Никита"
+    },
+    "csv_txn:29 Mar, 2026 08:37 AM|alinashyvip|16.00|Назар": {
+        "type": "transaction",
+        "date": "29 Mar, 2026 08:37 AM",
+        "account": "alinashyvip",
+        "amount": 16.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:29 Mar, 2026 05:49 AM|alinashylife|14.31|Никита": {
+        "type": "transaction",
+        "date": "29 Mar, 2026 05:49 AM",
+        "account": "alinashylife",
+        "amount": 14.31,
+        "chatter": "Никита"
+    },
+    "csv_txn:29 Mar, 2026 04:37 AM|alinashylife|10.39|Никита": {
+        "type": "transaction",
+        "date": "29 Mar, 2026 04:37 AM",
+        "account": "alinashylife",
+        "amount": 10.39,
+        "chatter": "Никита"
+    },
+    "csv_txn:28 Mar, 2026 10:29 PM|alina_shy|19.19|Назар": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 10:29 PM",
+        "account": "alina_shy",
+        "amount": 19.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:28 Mar, 2026 10:00 PM|alina_shy|11.19|Назар": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 10:00 PM",
+        "account": "alina_shy",
+        "amount": 11.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:28 Mar, 2026 08:37 PM|alina_shy|26.95|Назар": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 08:37 PM",
+        "account": "alina_shy",
+        "amount": 26.95,
+        "chatter": "Назар"
+    },
+    "csv_txn:28 Mar, 2026 08:12 PM|alina_shy|20.55|Назар": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 08:12 PM",
+        "account": "alina_shy",
+        "amount": 20.55,
+        "chatter": "Назар"
+    },
+    "csv_txn:28 Mar, 2026 07:49 PM|alina_shy|12.80|Назар": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 07:49 PM",
+        "account": "alina_shy",
+        "amount": 12.8,
+        "chatter": "Назар"
+    },
+    "csv_txn:28 Mar, 2026 03:28 AM|alinashylife|11.99|Никита": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 03:28 AM",
+        "account": "alinashylife",
+        "amount": 11.99,
+        "chatter": "Никита"
+    },
+    "csv_txn:28 Mar, 2026 03:22 AM|alinashylife|7.99|Никита": {
+        "type": "transaction",
+        "date": "28 Mar, 2026 03:22 AM",
+        "account": "alinashylife",
+        "amount": 7.99,
+        "chatter": "Никита"
+    },
+    "csv_txn:27 Mar, 2026 08:15 PM|alinashylife|8.00|Назар": {
+        "type": "transaction",
+        "date": "27 Mar, 2026 08:15 PM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:26 Mar, 2026 03:36 PM|alinashyvip|8.00|Назар": {
+        "type": "transaction",
+        "date": "26 Mar, 2026 03:36 PM",
+        "account": "alinashyvip",
+        "amount": 8.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:26 Mar, 2026 08:35 AM|alinashyvip|20.00|Назар": {
+        "type": "transaction",
+        "date": "26 Mar, 2026 08:35 AM",
+        "account": "alinashyvip",
+        "amount": 20.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:25 Mar, 2026 08:10 PM|alinashylife|11.99|Назар": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 08:10 PM",
+        "account": "alinashylife",
+        "amount": 11.99,
+        "chatter": "Назар"
+    },
+    "csv_txn:25 Mar, 2026 01:57 PM|alinashylife|3.20|Назар": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 01:57 PM",
+        "account": "alinashylife",
+        "amount": 3.2,
+        "chatter": "Назар"
+    },
+    "csv_txn:25 Mar, 2026 01:36 PM|alinashylife|3.20|Назар": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 01:36 PM",
+        "account": "alinashylife",
+        "amount": 3.2,
+        "chatter": "Назар"
+    },
+    "csv_txn:25 Mar, 2026 12:42 PM|alinashyvip|12.55|Назар": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 12:42 PM",
+        "account": "alinashyvip",
+        "amount": 12.55,
+        "chatter": "Назар"
+    },
+    "csv_txn:25 Mar, 2026 01:37 AM|alinashylife|4.00|Никита": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 01:37 AM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Никита"
+    },
+    "csv_txn:25 Mar, 2026 01:23 AM|alinashylife|4.00|Никита": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 01:23 AM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Никита"
+    },
+    "csv_txn:25 Mar, 2026 12:21 AM|alinashylife|9.59|Никита": {
+        "type": "transaction",
+        "date": "25 Mar, 2026 12:21 AM",
+        "account": "alinashylife",
+        "amount": 9.59,
+        "chatter": "Никита"
+    },
+    "csv_txn:24 Mar, 2026 10:31 AM|alina_shy|10.40|Назар": {
+        "type": "transaction",
+        "date": "24 Mar, 2026 10:31 AM",
+        "account": "alina_shy",
+        "amount": 10.4,
+        "chatter": "Назар"
+    },
+    "csv_txn:23 Mar, 2026 11:51 PM|alinashylife|4.00|Никита": {
+        "type": "transaction",
+        "date": "23 Mar, 2026 11:51 PM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Никита"
+    },
+    "csv_txn:23 Mar, 2026 11:26 PM|alinashylife|8.00|Никита": {
+        "type": "transaction",
+        "date": "23 Mar, 2026 11:26 PM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Никита"
+    },
+    "csv_txn:22 Mar, 2026 03:04 PM|alina_shy|8.00|Макс": {
+        "type": "transaction",
+        "date": "22 Mar, 2026 03:04 PM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:22 Mar, 2026 03:27 AM|alina_shy|15.20|Назар": {
+        "type": "transaction",
+        "date": "22 Mar, 2026 03:27 AM",
+        "account": "alina_shy",
+        "amount": 15.2,
+        "chatter": "Назар"
+    },
+    "csv_txn:22 Mar, 2026 02:52 AM|alina_shy|23.19|Назар": {
+        "type": "transaction",
+        "date": "22 Mar, 2026 02:52 AM",
+        "account": "alina_shy",
+        "amount": 23.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:22 Mar, 2026 02:36 AM|alina_shy|20.79|Назар": {
+        "type": "transaction",
+        "date": "22 Mar, 2026 02:36 AM",
+        "account": "alina_shy",
+        "amount": 20.79,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 05:08 PM|alinashylife|24.80|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 05:08 PM",
+        "account": "alinashylife",
+        "amount": 24.8,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 04:46 PM|alinashylife|19.99|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 04:46 PM",
+        "account": "alinashylife",
+        "amount": 19.99,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 04:26 PM|alinashylife|14.39|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 04:26 PM",
+        "account": "alinashylife",
+        "amount": 14.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 04:12 PM|alinashylife|9.60|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 04:12 PM",
+        "account": "alinashylife",
+        "amount": 9.6,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 03:36 AM|alina_shy|35.19|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 03:36 AM",
+        "account": "alina_shy",
+        "amount": 35.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 03:20 AM|alina_shy|30.39|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 03:20 AM",
+        "account": "alina_shy",
+        "amount": 30.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 02:56 AM|alina_shy|21.35|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 02:56 AM",
+        "account": "alina_shy",
+        "amount": 21.35,
+        "chatter": "Назар"
+    },
+    "csv_txn:21 Mar, 2026 02:28 AM|alina_shy|13.60|Назар": {
+        "type": "transaction",
+        "date": "21 Mar, 2026 02:28 AM",
+        "account": "alina_shy",
+        "amount": 13.6,
+        "chatter": "Назар"
+    },
+    "csv_txn:20 Mar, 2026 10:07 PM|alinashylife|9.60|Назар": {
+        "type": "transaction",
+        "date": "20 Mar, 2026 10:07 PM",
+        "account": "alinashylife",
+        "amount": 9.6,
+        "chatter": "Назар"
+    },
+    "csv_txn:20 Mar, 2026 03:20 PM|alinashylife|6.37|Назар": {
+        "type": "transaction",
+        "date": "20 Mar, 2026 03:20 PM",
+        "account": "alinashylife",
+        "amount": 6.37,
+        "chatter": "Назар"
+    },
+    "csv_txn:20 Mar, 2026 11:58 AM|alina_shy|32.00|Макс": {
+        "type": "transaction",
+        "date": "20 Mar, 2026 11:58 AM",
+        "account": "alina_shy",
+        "amount": 32.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:20 Mar, 2026 11:32 AM|alina_shy|8.00|Макс": {
+        "type": "transaction",
+        "date": "20 Mar, 2026 11:32 AM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:18 Mar, 2026 02:07 PM|alinashylife|14.39|Макс": {
+        "type": "transaction",
+        "date": "18 Mar, 2026 02:07 PM",
+        "account": "alinashylife",
+        "amount": 14.39,
+        "chatter": "Макс"
+    },
+    "csv_txn:17 Mar, 2026 08:21 AM|alinashylife|4.00|Начальник": {
+        "type": "transaction",
+        "date": "17 Mar, 2026 08:21 AM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Начальник"
+    },
+    "csv_txn:16 Mar, 2026 04:01 PM|alinashylife|8.00|Георгий": {
+        "type": "transaction",
+        "date": "16 Mar, 2026 04:01 PM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 08:10 PM|alina_shy|14.40|Назар": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 08:10 PM",
+        "account": "alina_shy",
+        "amount": 14.4,
+        "chatter": "Назар"
+    },
+    "csv_txn:15 Mar, 2026 07:45 PM|alinashyvip|8.00|Назар": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 07:45 PM",
+        "account": "alinashyvip",
+        "amount": 8.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:15 Mar, 2026 07:34 PM|alina_shy|12.00|Назар": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 07:34 PM",
+        "account": "alina_shy",
+        "amount": 12.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:15 Mar, 2026 09:49 AM|alinashyvip|15.99|Макс": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 09:49 AM",
+        "account": "alinashyvip",
+        "amount": 15.99,
+        "chatter": "Макс"
+    },
+    "csv_txn:15 Mar, 2026 08:53 AM|alinashyvip|16.00|Макс": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 08:53 AM",
+        "account": "alinashyvip",
+        "amount": 16.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:15 Mar, 2026 04:20 AM|alinashylife|28.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 04:20 AM",
+        "account": "alinashylife",
+        "amount": 28.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 04:10 AM|alinashylife|17.60|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 04:10 AM",
+        "account": "alinashylife",
+        "amount": 17.6,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 04:00 AM|alinashylife|12.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 04:00 AM",
+        "account": "alinashylife",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 01:45 AM|alina_shy|32.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 01:45 AM",
+        "account": "alina_shy",
+        "amount": 32.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 01:35 AM|alina_shy|24.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 01:35 AM",
+        "account": "alina_shy",
+        "amount": 24.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 01:24 AM|alina_shy|18.40|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 01:24 AM",
+        "account": "alina_shy",
+        "amount": 18.4,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 01:08 AM|alina_shy|20.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 01:08 AM",
+        "account": "alina_shy",
+        "amount": 20.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 12:57 AM|alina_shy|12.00|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 12:57 AM",
+        "account": "alina_shy",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:15 Mar, 2026 12:48 AM|alina_shy|9.60|Георгий": {
+        "type": "transaction",
+        "date": "15 Mar, 2026 12:48 AM",
+        "account": "alina_shy",
+        "amount": 9.6,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 06:31 PM|alina_shy|22.39|Макс": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 06:31 PM",
+        "account": "alina_shy",
+        "amount": 22.39,
+        "chatter": "Макс"
+    },
+    "csv_txn:14 Mar, 2026 06:47 AM|alinashyvip|8.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 06:47 AM",
+        "account": "alinashyvip",
+        "amount": 8.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 04:22 AM|alinashylife|12.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 04:22 AM",
+        "account": "alinashylife",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 04:09 AM|alinashylife|12.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 04:09 AM",
+        "account": "alinashylife",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 03:27 AM|alina_shy|12.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 03:27 AM",
+        "account": "alina_shy",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 03:19 AM|alina_shy|52.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 03:19 AM",
+        "account": "alina_shy",
+        "amount": 52.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 02:54 AM|alina_shy|20.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 02:54 AM",
+        "account": "alina_shy",
+        "amount": 20.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 02:41 AM|alina_shy|8.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 02:41 AM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 02:35 AM|alina_shy|8.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 02:35 AM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 01:51 AM|alinashylife|56.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 01:51 AM",
+        "account": "alinashylife",
+        "amount": 56.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:14 Mar, 2026 01:35 AM|alinashylife|20.00|Георгий": {
+        "type": "transaction",
+        "date": "14 Mar, 2026 01:35 AM",
+        "account": "alinashylife",
+        "amount": 20.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:13 Mar, 2026 10:17 PM|alinashyvip|4.00|Назар": {
+        "type": "transaction",
+        "date": "13 Mar, 2026 10:17 PM",
+        "account": "alinashyvip",
+        "amount": 4.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:13 Mar, 2026 11:30 AM|alina_shy|32.00|Начальник": {
+        "type": "transaction",
+        "date": "13 Mar, 2026 11:30 AM",
+        "account": "alina_shy",
+        "amount": 32.0,
+        "chatter": "Начальник"
+    },
+    "csv_txn:12 Mar, 2026 03:27 PM|alinashylife|18.39|Назар": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 03:27 PM",
+        "account": "alinashylife",
+        "amount": 18.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:12 Mar, 2026 02:51 PM|alinashylife|14.39|Макс": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 02:51 PM",
+        "account": "alinashylife",
+        "amount": 14.39,
+        "chatter": "Макс"
+    },
+    "csv_txn:12 Mar, 2026 12:54 PM|alina_shy|4.00|Макс": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 12:54 PM",
+        "account": "alina_shy",
+        "amount": 4.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:12 Mar, 2026 12:34 PM|alina_shy|30.39|Макс": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 12:34 PM",
+        "account": "alina_shy",
+        "amount": 30.39,
+        "chatter": "Макс"
+    },
+    "csv_txn:12 Mar, 2026 12:16 PM|alina_shy|14.39|Макс": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 12:16 PM",
+        "account": "alina_shy",
+        "amount": 14.39,
+        "chatter": "Макс"
+    },
+    "csv_txn:12 Mar, 2026 03:20 AM|alinashylife|8.00|Начальник": {
+        "type": "transaction",
+        "date": "12 Mar, 2026 03:20 AM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Начальник"
+    },
+    "csv_txn:10 Mar, 2026 11:13 AM|alinashylife|8.00|Макс": {
+        "type": "transaction",
+        "date": "10 Mar, 2026 11:13 AM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:10 Mar, 2026 09:35 AM|alinashylife|6.40|Макс": {
+        "type": "transaction",
+        "date": "10 Mar, 2026 09:35 AM",
+        "account": "alinashylife",
+        "amount": 6.4,
+        "chatter": "Макс"
+    },
+    "csv_txn:10 Mar, 2026 08:16 AM|alinashylife|6.40|Макс": {
+        "type": "transaction",
+        "date": "10 Mar, 2026 08:16 AM",
+        "account": "alinashylife",
+        "amount": 6.4,
+        "chatter": "Макс"
+    },
+    "csv_txn:09 Mar, 2026 12:30 AM|alinashylife|8.00|Георгий": {
+        "type": "transaction",
+        "date": "09 Mar, 2026 12:30 AM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:08 Mar, 2026 09:07 PM|alinashylife|32.00|Георгий": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 09:07 PM",
+        "account": "alinashylife",
+        "amount": 32.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:08 Mar, 2026 08:34 PM|alinashylife|24.00|Георгий": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 08:34 PM",
+        "account": "alinashylife",
+        "amount": 24.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:08 Mar, 2026 06:35 PM|alinashylife|14.40|Георгий": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 06:35 PM",
+        "account": "alinashylife",
+        "amount": 14.4,
+        "chatter": "Георгий"
+    },
+    "csv_txn:08 Mar, 2026 06:13 PM|alinashylife|12.00|Георгий": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 06:13 PM",
+        "account": "alinashylife",
+        "amount": 12.0,
+        "chatter": "Георгий"
+    },
+    "csv_txn:08 Mar, 2026 02:40 PM|alinashylife|24.00|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 02:40 PM",
+        "account": "alinashylife",
+        "amount": 24.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:08 Mar, 2026 02:18 PM|alina_shy|8.00|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 02:18 PM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:08 Mar, 2026 12:11 PM|alinashyvip|12.00|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 12:11 PM",
+        "account": "alinashyvip",
+        "amount": 12.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:08 Mar, 2026 11:38 AM|alinashyvip|12.00|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 11:38 AM",
+        "account": "alinashyvip",
+        "amount": 12.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:08 Mar, 2026 09:06 AM|alinashyvip|16.00|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 09:06 AM",
+        "account": "alinashyvip",
+        "amount": 16.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:08 Mar, 2026 08:24 AM|alina_shy|6.40|Макс": {
+        "type": "transaction",
+        "date": "08 Mar, 2026 08:24 AM",
+        "account": "alina_shy",
+        "amount": 6.4,
+        "chatter": "Макс"
+    },
+    "csv_txn:07 Mar, 2026 11:46 PM|alinashylife|17.59|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 11:46 PM",
+        "account": "alinashylife",
+        "amount": 17.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 09:39 PM|alinashylife|28.00|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 09:39 PM",
+        "account": "alinashylife",
+        "amount": 28.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 09:22 PM|alinashylife|22.40|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 09:22 PM",
+        "account": "alinashylife",
+        "amount": 22.4,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 09:04 PM|alinashylife|15.19|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 09:04 PM",
+        "account": "alinashylife",
+        "amount": 15.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 01:03 PM|alinashylife|4.00|Начальник": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 01:03 PM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Начальник"
+    },
+    "csv_txn:07 Mar, 2026 11:45 AM|alinashyvip|8.79|Макс": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 11:45 AM",
+        "account": "alinashyvip",
+        "amount": 8.79,
+        "chatter": "Макс"
+    },
+    "csv_txn:07 Mar, 2026 08:28 AM|alinashyvip|4.00|Макс": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 08:28 AM",
+        "account": "alinashyvip",
+        "amount": 4.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:07 Mar, 2026 05:33 AM|alinashylife|21.59|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 05:33 AM",
+        "account": "alinashylife",
+        "amount": 21.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 05:12 AM|alinashylife|12.79|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 05:12 AM",
+        "account": "alinashylife",
+        "amount": 12.79,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 03:27 AM|alina_shy|29.59|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 03:27 AM",
+        "account": "alina_shy",
+        "amount": 29.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 02:55 AM|alinashylife|6.40|Начальник": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 02:55 AM",
+        "account": "alinashylife",
+        "amount": 6.4,
+        "chatter": "Начальник"
+    },
+    "csv_txn:07 Mar, 2026 02:52 AM|alina_shy|23.19|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 02:52 AM",
+        "account": "alina_shy",
+        "amount": 23.19,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 02:25 AM|alina_shy|18.39|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 02:25 AM",
+        "account": "alina_shy",
+        "amount": 18.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 01:23 AM|alinashyvip|29.59|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 01:23 AM",
+        "account": "alinashyvip",
+        "amount": 29.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 01:08 AM|alinashyvip|21.59|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 01:08 AM",
+        "account": "alinashyvip",
+        "amount": 21.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:07 Mar, 2026 12:57 AM|alinashyvip|8.00|Назар": {
+        "type": "transaction",
+        "date": "07 Mar, 2026 12:57 AM",
+        "account": "alinashyvip",
+        "amount": 8.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 10:47 PM|alinashyvip|26.39|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 10:47 PM",
+        "account": "alinashyvip",
+        "amount": 26.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 10:34 PM|alinashyvip|19.99|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 10:34 PM",
+        "account": "alinashyvip",
+        "amount": 19.99,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 09:47 PM|alinashyvip|14.39|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 09:47 PM",
+        "account": "alinashyvip",
+        "amount": 14.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 07:52 PM|alina_shy|13.59|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 07:52 PM",
+        "account": "alina_shy",
+        "amount": 13.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 07:43 PM|alina_shy|9.60|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 07:43 PM",
+        "account": "alina_shy",
+        "amount": 9.6,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 07:18 PM|alinashyvip|8.00|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 07:18 PM",
+        "account": "alinashyvip",
+        "amount": 8.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 04:33 PM|alinashylife|16.00|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 04:33 PM",
+        "account": "alinashylife",
+        "amount": 16.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 04:32 PM|alinashyvip|24.00|Назар": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 04:32 PM",
+        "account": "alinashyvip",
+        "amount": 24.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:06 Mar, 2026 02:54 PM|alinashylife|12.79|Макс": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 02:54 PM",
+        "account": "alinashylife",
+        "amount": 12.79,
+        "chatter": "Макс"
+    },
+    "csv_txn:06 Mar, 2026 12:08 PM|alinashylife|8.00|Макс": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 12:08 PM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:06 Mar, 2026 09:51 AM|alinashyvip|4.00|Макс": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 09:51 AM",
+        "account": "alinashyvip",
+        "amount": 4.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:06 Mar, 2026 09:18 AM|alinashyvip|4.00|Макс": {
+        "type": "transaction",
+        "date": "06 Mar, 2026 09:18 AM",
+        "account": "alinashyvip",
+        "amount": 4.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:05 Mar, 2026 11:05 PM|alinashylife|10.39|Назар": {
+        "type": "transaction",
+        "date": "05 Mar, 2026 11:05 PM",
+        "account": "alinashylife",
+        "amount": 10.39,
+        "chatter": "Назар"
+    },
+    "csv_txn:05 Mar, 2026 08:30 PM|alina_shy|9.60|Назар": {
+        "type": "transaction",
+        "date": "05 Mar, 2026 08:30 PM",
+        "account": "alina_shy",
+        "amount": 9.6,
+        "chatter": "Назар"
+    },
+    "csv_txn:05 Mar, 2026 01:18 PM|alinashylife|8.00|Макс": {
+        "type": "transaction",
+        "date": "05 Mar, 2026 01:18 PM",
+        "account": "alinashylife",
+        "amount": 8.0,
+        "chatter": "Макс"
+    },
+    "csv_txn:05 Mar, 2026 02:23 AM|alina_shy|8.00|Начальник": {
+        "type": "transaction",
+        "date": "05 Mar, 2026 02:23 AM",
+        "account": "alina_shy",
+        "amount": 8.0,
+        "chatter": "Начальник"
+    },
+    "csv_txn:04 Mar, 2026 10:40 PM|alinashylife|4.00|Назар": {
+        "type": "transaction",
+        "date": "04 Mar, 2026 10:40 PM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:04 Mar, 2026 10:37 PM|alinashyvip|15.99|Назар": {
+        "type": "transaction",
+        "date": "04 Mar, 2026 10:37 PM",
+        "account": "alinashyvip",
+        "amount": 15.99,
+        "chatter": "Назар"
+    },
+    "csv_txn:04 Mar, 2026 09:37 PM|alinashyvip|24.00|Назар": {
+        "type": "transaction",
+        "date": "04 Mar, 2026 09:37 PM",
+        "account": "alinashyvip",
+        "amount": 24.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:04 Mar, 2026 10:38 AM|alinashylife|4.00|Назар": {
+        "type": "transaction",
+        "date": "04 Mar, 2026 10:38 AM",
+        "account": "alinashylife",
+        "amount": 4.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:04 Mar, 2026 02:17 AM|alina_shy|5.59|Начальник": {
+        "type": "transaction",
+        "date": "04 Mar, 2026 02:17 AM",
+        "account": "alina_shy",
+        "amount": 5.59,
+        "chatter": "Начальник"
+    },
+    "csv_txn:02 Mar, 2026 01:44 AM|alinashylife|19.99|Начальник": {
+        "type": "transaction",
+        "date": "02 Mar, 2026 01:44 AM",
+        "account": "alinashylife",
+        "amount": 19.99,
+        "chatter": "Начальник"
+    },
+    "csv_txn:02 Mar, 2026 12:11 AM|alinashylife|19.99|Назар": {
+        "type": "transaction",
+        "date": "02 Mar, 2026 12:11 AM",
+        "account": "alinashylife",
+        "amount": 19.99,
+        "chatter": "Назар"
+    },
+    "csv_txn:01 Mar, 2026 11:16 PM|alinashylife|13.59|Назар": {
+        "type": "transaction",
+        "date": "01 Mar, 2026 11:16 PM",
+        "account": "alinashylife",
+        "amount": 13.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:01 Mar, 2026 10:48 PM|alinashylife|12.00|Назар": {
+        "type": "transaction",
+        "date": "01 Mar, 2026 10:48 PM",
+        "account": "alinashylife",
+        "amount": 12.0,
+        "chatter": "Назар"
+    },
+    "csv_txn:01 Mar, 2026 10:04 PM|alinashylife|10.40|Назар": {
+        "type": "transaction",
+        "date": "01 Mar, 2026 10:04 PM",
+        "account": "alinashylife",
+        "amount": 10.4,
+        "chatter": "Назар"
+    },
+    "csv_txn:01 Mar, 2026 07:41 PM|alinashylife|13.59|Назар": {
+        "type": "transaction",
+        "date": "01 Mar, 2026 07:41 PM",
+        "account": "alinashylife",
+        "amount": 13.59,
+        "chatter": "Назар"
+    },
+    "csv_txn:01 Mar, 2026 05:45 PM|alina_shy|21.59|Назар": {
+        "type": "transaction",
+        "date": "01 Mar, 2026 05:45 PM",
+        "account": "alina_shy",
+        "amount": 21.59,
+        "chatter": "Назар"
+    },
+    "fans:total": {
+        "type": "dashboard_fans",
+        "date": "03 Apr 2026 15:01",
+        "account": "TOTAL",
+        "count": 88
+    },
+    "txn:03 Apr 2026 00:36|alina shy🤍 alinashylife основа|11.99|назар": {
+        "type": "transaction",
+        "date": "03 Apr, 2026 12:36 AM",
+        "account": "Alina Shy🤍 alinashylife Основа",
+        "amount": 11.99,
+        "chatter": "Назар"
+    },
+    "txn:02 Apr 2026 21:15|alina shy💫 alinashyvip|18.95|назар": {
+        "type": "transaction",
+        "date": "02 Apr, 2026 09:15 PM",
+        "account": "Alina Shy💫 alinashyvip",
+        "amount": 18.95,
+        "chatter": "Назар"
+    },
+    "txn:02 Apr 2026 20:48|alina shy💫 alinashyvip|9.35|назар": {
+        "type": "transaction",
+        "date": "02 Apr, 2026 08:48 PM",
+        "account": "Alina Shy💫 alinashyvip",
+        "amount": 9.35,
+        "chatter": "Назар"
+    },
+    "txn:02 Apr 2026 16:07|alina shy🤍 alinashylife основа|14.95|назар": {
+        "type": "transaction",
+        "date": "02 Apr, 2026 04:07 PM",
+        "account": "Alina Shy🤍 alinashylife Основа",
+        "amount": 14.95,
+        "chatter": "Назар"
+    },
+    "txn:03 Apr 2026 13:59|alina shy💫 alinashyvip|20.00|андрей": {
+        "type": "transaction",
+        "date": "03 Apr, 2026 01:59 PM",
+        "account": "Alina Shy💫 alinashyvip",
+        "amount": 20.0,
+        "chatter": "Андрей"
+    },
+    "txn:03 Apr 2026 12:48|alina shy🔥 alina_shy|8.00|unassigned": {
+        "type": "transaction",
+        "date": "03 Apr, 2026 12:48 PM",
+        "account": "Alina Shy🔥 alina_shy",
+        "amount": 8.0,
+        "chatter": "Unassigned"
+    },
+    "txn:03 Apr 2026 12:41|alina shy💫 alinashyvip|5.35|unassigned": {
+        "type": "transaction",
+        "date": "03 Apr, 2026 12:41 PM",
+        "account": "Alina Shy💫 alinashyvip",
+        "amount": 5.35,
+        "chatter": "Unassigned"
+    }
+}

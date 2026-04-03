@@ -1,0 +1,8 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python MyOnlyBot.py"
+
+[nixpacks]
+packages = ["chromium"]

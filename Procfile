@@ -1,0 +1,1 @@
+worker: python MyOnlyBot.py

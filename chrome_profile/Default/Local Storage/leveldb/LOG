@@ -1,0 +1,18 @@
+2026/04/03-15:00:47.603 396d6f Reusing MANIFEST /Users/ivan8yabkoickoud.com/Desktop/Onlimonster /chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/03-15:00:47.615 396d6f Recovering log #48
+2026/04/03-15:00:47.617 396d6f Reusing old log /Users/ivan8yabkoickoud.com/Desktop/Onlimonster /chrome_profile/Default/Local Storage/leveldb/000048.log 
+2026/04/03-15:08:49.432 396d73 Level-0 table #52: started
+2026/04/03-15:08:49.437 396d73 Level-0 table #52: 18551 bytes OK
+2026/04/03-15:08:49.441 396d73 Delete type=0 #48
+2026/04/03-15:26:49.584 396d73 Level-0 table #54: started
+2026/04/03-15:26:49.588 396d73 Level-0 table #54: 16808 bytes OK
+2026/04/03-15:26:49.592 396d73 Delete type=0 #51
+2026/04/03-15:26:49.593 396d73 Compacting 4@0 + 1@1 files
+2026/04/03-15:26:49.597 396d73 Generated table #55@0: 9 keys, 2023 bytes
+2026/04/03-15:26:49.598 396d73 Compacted 4@0 + 1@1 files => 2023 bytes
+2026/04/03-15:26:49.598 396d73 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/03-15:26:49.599 396d73 Delete type=2 #49
+2026/04/03-15:26:49.599 396d73 Delete type=2 #54
+2026/04/03-15:26:49.599 396d73 Delete type=2 #44
+2026/04/03-15:26:49.599 396d73 Delete type=2 #52
+2026/04/03-15:26:49.600 396d73 Delete type=2 #46
